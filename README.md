@@ -1,4 +1,4 @@
-#Jumpstart Lab Blog Tutorial
+# Jumpstart Lab Blog Tutorial
 
 This is a repo to record my progress as I work through the [Jumpstart Lab's blog tutorial](http://tutorials.jumpstartlab.com/projects/blogger.html). This is being done as part of [The Odin Project's curriculum](https://www.theodinproject.com/courses/web-development-101/lessons/ruby-on-rails)
 
