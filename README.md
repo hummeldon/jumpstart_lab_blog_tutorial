@@ -4,4 +4,6 @@ This is a repo to record my progress as I work through the [Jumpstart Lab's blog
 
 [Live version](https://shielded-escarpment-39617.herokuapp.com/)
 
-This project project is my first hands on experience with Ruby on Rails. Temporarily, I will be using the CSS stylesheet provided by the tutorial but as an extra challenge I plan to design my own CSS after finishing.
+Future goals for this project if I return to it.
+1. Redesign the CSS to look nicer.
+2. Complete the extra credit from I6 on the tutorial.
